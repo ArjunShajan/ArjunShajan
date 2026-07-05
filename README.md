@@ -102,6 +102,10 @@ Passionate about building AI-powered applications that solve real-world problems
 
 📱 **Phone:** **+91 8075036982**
 
+📷 **Instagram:** **https://www.instagram.com/arjun_shajan_?igsh=cHc1Z3pwdnJzbWg4**
+
+📘 **Facebook:** **https://www.facebook.com/arjun.shajan.90?rdid=VmdR58x3Aa814ikG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CzwTvvWbz%2F#**
+
 ---
 
 ## 💡 Quote
