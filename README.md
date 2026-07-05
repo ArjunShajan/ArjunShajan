@@ -20,36 +20,62 @@ Passionate about building AI-powered applications that solve real-world problems
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
 ### 🤖 AI-Based Interview Preparation Tool
-> **AI-powered interview preparation platform using NLP**
 
-- 📄 Resume analysis with Natural Language Processing
-- 🎯 Personalized Technical & HR interview questions
-- 🧠 AI-driven skill assessment
-- 📊 Performance feedback and interview evaluation
-- ⚡ **Tech Stack:** Python • FastAPI • Machine Learning • NLP
+> **AI-powered interview preparation platform**
 
----
+**✨ Features**
+- 📄 Resume Analysis (NLP)
+- 🎯 Personalized Technical & HR Questions
+- 🧠 AI Skill Assessment
+- 📊 Interview Feedback
+
+**🛠️ Tech Stack**
+`Python` `FastAPI` `Machine Learning` `NLP`
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 📸 AI Attendance Monitoring System
-> **Face Recognition-based attendance management system**
 
-- 😊 Real-time facial recognition
-- 📝 Automated attendance recording
-- 📊 Attendance analytics and reports
-- 🔒 Accurate, secure, and contactless attendance
-- ⚡ **Tech Stack:** Python • OpenCV • Face Recognition • SQL
+> **Face Recognition Attendance System**
 
----
+**✨ Features**
+- 😊 Real-time Face Recognition
+- 📝 Automatic Attendance
+- 📊 Attendance Reports
+- 🔒 Secure & Contactless
 
-### 😊 Real-Time Emotion Detection System
-> **AI-powered facial emotion recognition using Computer Vision and Deep Learning**
+**🛠️ Tech Stack**
+`Python` `OpenCV` `Face Recognition` `SQL`
 
-- 📷 Detects faces in real time using **MediaPipe Face Detection**
-- 😃 Recognizes **7 human emotions**: Happy, Sad, Angry, Fear, Surprise, Disgust, and Neutral
-- 🧠 Uses the **Mini-XCEPTION** deep learning model for accurate emotion classification
-- 🎥 Displays live emotion predictions and confidence scores from webcam input
-- ⚡ **Tech Stack:** Python • OpenCV • MediaPipe • TensorFlow/Keras • NumPy
+</td>
+
+<td width="33%" valign="top">
+
+### 😊 Real-Time Emotion Detection
+
+> **Emotion Recognition using Deep Learning**
+
+**✨ Features**
+- 📷 Live Face Detection
+- 😀 Detects 7 Emotions
+- 🧠 Mini-XCEPTION Model
+- 🎥 Real-time Predictions
+
+**🛠️ Tech Stack**
+`Python` `OpenCV` `MediaPipe` `TensorFlow` `Keras`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
