@@ -18,21 +18,38 @@ Passionate about building AI-powered applications that solve real-world problems
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI-Based Interview Preparation Tool
-- 📄 Resume analysis using NLP
-- 🧠 Generates personalized Technical & HR interview questions
-- 📊 Provides interview feedback and performance evaluation
-- ⚡ Built using Python, FastAPI, Machine Learning & NLP
+> **AI-powered interview preparation platform using NLP**
+
+- 📄 Resume analysis with Natural Language Processing
+- 🎯 Personalized Technical & HR interview questions
+- 🧠 AI-driven skill assessment
+- 📊 Performance feedback and interview evaluation
+- ⚡ **Tech Stack:** Python • FastAPI • Machine Learning • NLP
 
 ---
 
 ### 📸 AI Attendance Monitoring System
-- 😊 Face Recognition based Attendance System
-- 📝 Automatic attendance recording
-- 📊 Attendance report generation
-- 🔒 Improves accuracy and minimizes manual work
+> **Face Recognition-based attendance management system**
+
+- 😊 Real-time facial recognition
+- 📝 Automated attendance recording
+- 📊 Attendance analytics and reports
+- 🔒 Accurate, secure, and contactless attendance
+- ⚡ **Tech Stack:** Python • OpenCV • Face Recognition • SQL
+
+---
+
+### 😊 Real-Time Emotion Detection System
+> **AI-powered facial emotion recognition using Computer Vision and Deep Learning**
+
+- 📷 Detects faces in real time using **MediaPipe Face Detection**
+- 😃 Recognizes **7 human emotions**: Happy, Sad, Angry, Fear, Surprise, Disgust, and Neutral
+- 🧠 Uses the **Mini-XCEPTION** deep learning model for accurate emotion classification
+- 🎥 Displays live emotion predictions and confidence scores from webcam input
+- ⚡ **Tech Stack:** Python • OpenCV • MediaPipe • TensorFlow/Keras • NumPy
 
 ---
 
