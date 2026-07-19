@@ -20,8 +20,6 @@ Passionate about building AI-powered applications that solve real-world problems
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🤖 AI-Based Interview Preparation Tool
 
 > **AI-powered interview preparation platform**
