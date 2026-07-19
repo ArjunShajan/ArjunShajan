@@ -20,10 +20,7 @@ Passionate about building AI-powered applications that solve real-world problems
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
+## 🚀 Featured Projects
 
 ### 🤖 AI-Based Interview Preparation Tool
 
@@ -36,30 +33,10 @@ Passionate about building AI-powered applications that solve real-world problems
 - 📊 Interview Feedback
 
 **🛠️ Tech Stack**
+
 `Python` `FastAPI` `Machine Learning` `NLP`
 
-</td>
-
-<td width="33%" valign="top">
-
-### 📸 AI Attendance Monitoring System
-
-> **Face Recognition Attendance System**
-
-**✨ Features**
-- 😊 Real-time Face Recognition
-- 📝 Automatic Attendance
-- 📊 Attendance Reports
-- 🔒 Secure & Contactless
-
-**🛠️ Tech Stack**
-`Python` `OpenCV` `Face Recognition` `SQL`
-
-</td>
-
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🧭 PathFinder AI
 
@@ -75,13 +52,26 @@ Passionate about building AI-powered applications that solve real-world problems
 - 🔐 Secure User Authentication
 
 **🛠️ Tech Stack**
+
 `Python` `FastAPI` `React` `Machine Learning` `Groq API` `SQLAlchemy` `SQLite` `JWT`
 
-</td>
+---
 
-<td width="33%" valign="top">
+### 📸 AI Attendance Monitoring System
 
-<td width="33%" valign="top">
+> **Face Recognition Attendance System**
+
+**✨ Features**
+- 😊 Real-time Face Recognition
+- 📝 Automatic Attendance
+- 📊 Attendance Reports
+- 🔒 Secure & Contactless
+
+**🛠️ Tech Stack**
+
+`Python` `OpenCV` `Face Recognition` `SQL`
+
+---
 
 ### 😊 Real-Time Emotion Detection
 
@@ -94,12 +84,8 @@ Passionate about building AI-powered applications that solve real-world problems
 - 🎥 Real-time Predictions
 
 **🛠️ Tech Stack**
+
 `Python` `OpenCV` `MediaPipe` `TensorFlow` `Keras`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
