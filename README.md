@@ -57,6 +57,30 @@ Passionate about building AI-powered applications that solve real-world problems
 
 </td>
 
+</td>
+
+<td width="33%" valign="top">
+
+### 🧭 PathFinder AI
+
+> **AI-powered Career Discovery & Skill Development Platform**
+
+**✨ Features**
+- 📄 AI-based Career Recommendation
+- 🧠 Personalized Skill Gap Analysis
+- 🛣️ Learning Roadmap Generation
+- 🎯 Career Simulation & Guidance
+- 🤖 AI Mentor Chat Assistance
+- 📊 Interactive User Dashboard
+- 🔐 Secure User Authentication
+
+**🛠️ Tech Stack**
+`Python` `FastAPI` `React` `Machine Learning` `Groq API` `SQLAlchemy` `SQLite` `JWT`
+
+</td>
+
+<td width="33%" valign="top">
+
 <td width="33%" valign="top">
 
 ### 😊 Real-Time Emotion Detection
