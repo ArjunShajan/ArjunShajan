@@ -93,7 +93,7 @@ Passionate about building AI-powered applications that solve real-world problems
 <tr>
 <td align="center" width="33%">
 
-### 💻 Languages
+### 💻 Languages 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br><br>
