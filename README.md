@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="700" alt="Coding Animation">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
 <p align="center">
   🚀 Turning Ideas into Intelligent Solutions with AI & Modern Web Technologies
 </p>
