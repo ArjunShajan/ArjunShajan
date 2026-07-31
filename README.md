@@ -209,14 +209,6 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 ---
 
-# 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArjunShajan/ArjunShajan/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
