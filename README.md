@@ -216,6 +216,10 @@ I'm continuously improving my skills through **academic projects, personal proje
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/ArjunShajan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 <a href="https://www.instagram.com/arjun_shajan_?igsh=cHc1Z3pwdnJzbWg4">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -225,6 +229,7 @@ I'm continuously improving my skills through **academic projects, personal proje
 </a>
 
 </p>
+
 
 ---
 
