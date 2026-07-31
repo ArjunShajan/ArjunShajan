@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACo1rWw/giphy.gif" width="500" alt="Developer Coding">
+  <img src="YOUR_AI_ANIMATION_GIF_URL_HERE" width="700" alt="AI Animation">
 </p>
 
 <p align="center">
-  <b>🚀 Turning Ideas into Intelligent Solutions with AI & Modern Web Technologies</b>
+  <b>🤖 Artificial Intelligence • 🧠 Machine Learning • 📊 Data Science • 💻 Software Development</b>
+</p>
+
+<p align="center">
+  🚀 Turning Ideas into Intelligent Solutions with AI & Modern Web Technologies
 </p>
 
 ---
