@@ -12,15 +12,6 @@
   <b>🚀 Turning Ideas into Intelligent Solutions with AI & Modern Web Technologies</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ArjunShajan">
-    <img src="https://komarev.com/ghpvc/?username=ArjunShajan&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ArjunShajan?tab=followers">
-    <img src="https://img.shields.io/github/followers/ArjunShajan?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -243,7 +234,11 @@ I'm continuously improving my skills through **academic projects, personal proje
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="[https://www.facebook.com/arjun.shajan](https://www.facebook.com/arjun.shajan.90?rdid=c4xWExVQbj03pHcr&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19f8eZxkeU%2F#)">
+<a href="https://www.instagram.com/arjun_shajan_?igsh=cHc1Z3pwdnJzbWg4">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/arjun.shajan.90">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
