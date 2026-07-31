@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arjun Shajan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%9A%80;NLP+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%94%A5;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%9A%80;NLP+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%94%A5;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -247,7 +247,7 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 <p align="center">
 
-### 🚀 Always Learning • Always Improving
+### 🚀 Learning • Building • Improving
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
