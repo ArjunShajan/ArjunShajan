@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/qgQUggACo1rWw/giphy.gif" width="500" alt="Developer Coding">
 </p>
 
 <p align="center">
