@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_AI_ANIMATION_GIF_URL_HERE" width="700" alt="AI Animation">
-</p>
-
-<p align="center">
-  <b>🤖 Artificial Intelligence • 🧠 Machine Learning • 📊 Data Science • 💻 Software Development</b>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="700" alt="Coding Animation">
 </p>
 
 <p align="center">
