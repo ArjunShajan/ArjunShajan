@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACo1rWw/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Computer.gif" width="400" alt="Coding Animation">
 </p>
 
 <p align="center">
