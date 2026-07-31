@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="300" alt="Spider-Man Animation">
+  <img src="https://media.giphy.com/media/qgQUggACo1rWw/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 <p align="center">
