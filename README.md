@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Arjun%20Shajan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
+
 <p align="center">
   🚀 Turning Ideas into Intelligent Solutions with AI & Modern Web Technologies
 </p>
