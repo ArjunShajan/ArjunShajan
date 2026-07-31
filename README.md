@@ -249,6 +249,8 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 ### 🚀 Learning • Building • Improving
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
 
 </p>
