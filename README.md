@@ -195,9 +195,11 @@ I'm continuously improving my skills through **academic projects, personal proje
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunShajan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunShajan&theme=tokyo-night&hide_border=true&area=true&custom_title=Arjun%20Shajan's%20Contribution%20Graph"
+    width="100%"
+  />
 </p>
-
 ---
 
 # 🌐 Connect With Me
