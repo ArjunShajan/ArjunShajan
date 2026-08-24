@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arjun Shajan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%9A%80;NLP+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%94%A5;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;AI+Application+Developer+%F0%9F%9A%80;NLP+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%94%A5;Data+Analytics+%7C+Power+BI+%F0%9F%93%8A;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ I enjoy working at the intersection of:
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 📊 Data Science
+* 📈 Data Analytics & Visualization
 * 🔍 Natural Language Processing
 * 🧬 Deep Learning
 * 👁️ Computer Vision
@@ -42,6 +43,7 @@ I'm continuously improving my skills through **academic projects, personal proje
 ⚛️ React & Modern Frontend Development
 🚀 FastAPI & Backend Development
 📊 Data Science & Data Analytics
+📈 Power BI & Business Intelligence
 ```
 
 > 💡 **My goal:** Build intelligent systems that solve real-world problems and create meaningful user experiences.
@@ -148,6 +150,48 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 ---
 
+## 🛒 E-Commerce Sales & Customer Analytics Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-Analytics-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Visualization-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business-Intelligence-7B2FF7?style=for-the-badge" />
+</p>
+
+> 📊 **An interactive Power BI dashboard designed to analyze e-commerce sales, customer behavior, product performance, profitability, and business trends.**
+
+### ✨ Features
+
+* 💰 **Sales & Revenue Analysis**
+* 📈 **Sales Growth & Year-over-Year Analysis**
+* 👥 **Customer Performance & Behavior Analysis**
+* 🛍️ **Product & Category Performance**
+* 💵 **Profit & Profitability Analysis**
+* 🌎 **Regional Sales Performance**
+* 📅 **Time-Based Sales Analysis**
+* 🎯 **Interactive Filters & Visualizations**
+* 📊 **Business KPI Dashboard**
+
+### 🧠 Analytics & DAX
+
+The project uses **Power BI DAX measures** and a dedicated **Date Table** for time-intelligence analysis.
+
+Key calculations include:
+
+* Total Sales
+* Total Profit
+* Previous Year Sales
+* Sales Growth %
+* Year-over-Year Performance
+* Time-Based Sales Trends
+
+### 🛠️ Tech Stack
+
+`Power BI` `DAX` `Power Query` `Data Modeling` `Data Visualization` `Business Intelligence`
+
+---
+
 # 🧠 Tech Stack & Skills
 
 <p align="center">
@@ -171,6 +215,15 @@ I'm continuously improving my skills through **academic projects, personal proje
 <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge" />
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 </p>
 
 ### 🌐 Development
@@ -200,6 +253,7 @@ I'm continuously improving my skills through **academic projects, personal proje
     width="100%"
   />
 </p>
+
 ---
 
 # 🌐 Connect With Me
@@ -228,7 +282,6 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 </p>
 
-
 ---
 
 # 💭 Developer Quote
@@ -243,8 +296,8 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 ### 🚀 Learning • Building • Improving
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
