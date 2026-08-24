@@ -126,30 +126,6 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 ---
 
-## 😊 Real-Time Emotion Detection
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Deep-Learning-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real--Time-Detection-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-</p>
-
-> 🧠 **A deep learning-based real-time emotion recognition system capable of detecting human emotions through facial expressions.**
-
-### ✨ Features
-
-* 📷 Live Face Detection
-* 😀 Detection of 7 Different Emotions
-* 🧠 Mini-XCEPTION Model
-* 🎥 Real-Time Emotion Predictions
-* ⚡ Live Camera Processing
-
-### 🛠️ Tech Stack
-
-`Python` `OpenCV` `MediaPipe` `TensorFlow` `Keras`
-
----
-
 ## 🛒 E-Commerce Sales & Customer Analytics Dashboard
 
 <p align="center">
