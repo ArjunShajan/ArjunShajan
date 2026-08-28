@@ -252,14 +252,16 @@ Key calculations include:
 
 ---
 
-# ⚡ GitHub Activity
+# 🐍 Contribution Journey
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ArjunShajan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="GitHub Stats"
+    src="https://raw.githubusercontent.com/ArjunShajan/ArjunShajan/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
+
 ---
 
 # 🌐 Connect With Me
