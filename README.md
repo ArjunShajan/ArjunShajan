@@ -115,17 +115,17 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 ### ✨ Features
 
-* 🔍 **AI Code Identification** — Identifies programming language, DSA category, algorithm, difficulty, and complexity
-* 🛠️ **AI Code Correction** — Detects syntax and logical errors and provides corrected solutions
-* ⚡ **Code Optimization** — Analyzes and improves time and space complexity
-* 🔄 **Code Conversion** — Converts DSA solutions between multiple programming languages
-* 🎨 **Interactive Code Visualization** — Generates step-by-step execution traces with variables, arrays, and pointers
-* 📊 **Complexity Analysis** — Provides time and space complexity insights
-* 🧒 **Kid Mode** — Explains complex DSA concepts using simple language and real-world analogies
-* 🤖 **AI Mentor** — Provides contextual assistance and answers questions about the code
-* 🎤 **Voice Input & Text-to-Speech** — Enables voice-based interaction with the AI Mentor
-* 📚 **Sample DSA Problems** — Includes ready-to-use algorithms for learning and experimentation
-* 🌙 **Modern Responsive UI** — Interactive interface with theme support and smooth animations
+* 🔍 **AI Code Identification**
+* 🛠️ **AI Code Correction**
+* ⚡ **Code Optimization**
+* 🔄 **Code Conversion**
+* 🎨 **Interactive Code Visualization**
+* 📊 **Complexity Analysis**
+* 🧒 **Kid Mode**
+* 🤖 **AI Mentor**
+* 🎤 **Voice Input & Text-to-Speech**
+* 📚 **Sample DSA Problems**
+* 🌙 **Modern Responsive UI**
 
 ### 🛠️ Tech Stack
 
