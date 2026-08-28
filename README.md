@@ -252,19 +252,36 @@ Key calculations include:
 
 ---
 
-# 📊 GitHub Statistics
+# 🏆 GitHub Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ArjunShajan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-profile-trophy.vercel.app/?username=ArjunShajan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ArjunShajan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="180"
-    alt="GitHub Stats"
+    alt="GitHub Statistics"
   />
 
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunShajan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
+
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunShajan&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com?user=ArjunShajan&theme=tokyonight&hide_border=true&border_radius=10"
+    width="70%"
+    alt="GitHub Streak"
   />
 </p>
 
