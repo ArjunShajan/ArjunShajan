@@ -252,16 +252,14 @@ Key calculations include:
 
 ---
 
-# 📈 Contribution Activity
+# ⚡ GitHub Activity
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/ArjunShajan"
-    alt="Arjun Shajan's GitHub Contributions"
-    width="100%"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ArjunShajan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub Stats"
   />
 </p>
-
 ---
 
 # 🌐 Connect With Me
