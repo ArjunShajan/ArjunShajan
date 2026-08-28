@@ -256,8 +256,9 @@ Key calculations include:
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunShajan&theme=tokyo-night&hide_border=true&area=true&custom_title=Arjun%20Shajan's%20Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunShajan&bg_color=0d1117&color=00F7FF&line=7B2FF7&point=00F7FF&area=true&hide_border=true"
     width="100%"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
