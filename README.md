@@ -101,6 +101,37 @@ I'm continuously improving my skills through **academic projects, personal proje
 `Python` `FastAPI` `React` `Machine Learning` `Groq API` `SQLAlchemy` `SQLite` `JWT`
 
 ---
+## 🪐 CodeOrbit — AI-Powered DSA Code Explainer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-DSA%20Explainer-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent-AI-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge" />
+</p>
+
+> 🪐 **An AI-powered Data Structures & Algorithms platform that analyzes, corrects, optimizes, converts, and visually explains code using a multi-agent AI architecture.**
+
+### ✨ Features
+
+* 🔍 **AI Code Identification** — Identifies programming language, DSA category, algorithm, difficulty, and complexity
+* 🛠️ **AI Code Correction** — Detects syntax and logical errors and provides corrected solutions
+* ⚡ **Code Optimization** — Analyzes and improves time and space complexity
+* 🔄 **Code Conversion** — Converts DSA solutions between multiple programming languages
+* 🎨 **Interactive Code Visualization** — Generates step-by-step execution traces with variables, arrays, and pointers
+* 📊 **Complexity Analysis** — Provides time and space complexity insights
+* 🧒 **Kid Mode** — Explains complex DSA concepts using simple language and real-world analogies
+* 🤖 **AI Mentor** — Provides contextual assistance and answers questions about the code
+* 🎤 **Voice Input & Text-to-Speech** — Enables voice-based interaction with the AI Mentor
+* 📚 **Sample DSA Problems** — Includes ready-to-use algorithms for learning and experimentation
+* 🌙 **Modern Responsive UI** — Interactive interface with theme support and smooth animations
+
+### 🛠️ Tech Stack
+
+`Python` `FastAPI` `React` `Vite` `Tailwind CSS` `Framer Motion` `JavaScript` `Groq API` `LLM` `Prompt Engineering` `Web Speech API`
+
+---
 
 ## 📸 AI Attendance Monitoring System
 
