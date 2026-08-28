@@ -256,9 +256,16 @@ Key calculations include:
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/ArjunShajan/ArjunShajan/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/ArjunShajan/ArjunShajan/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
     width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%A7%A0;Keep+Exploring+%F0%9F%94%A5;Keep+Creating+%E2%9C%A8"
+    alt="Typing Animation"
   />
 </p>
 
