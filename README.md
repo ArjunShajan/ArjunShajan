@@ -120,12 +120,6 @@ I'm continuously improving my skills through **academic projects, personal proje
 * ⚡ **Code Optimization**
 * 🔄 **Code Conversion**
 * 🎨 **Interactive Code Visualization**
-* 📊 **Complexity Analysis**
-* 🧒 **Kid Mode**
-* 🤖 **AI Mentor**
-* 🎤 **Voice Input & Text-to-Speech**
-* 📚 **Sample DSA Problems**
-* 🌙 **Modern Responsive UI**
 
 ### 🛠️ Tech Stack
 
