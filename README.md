@@ -252,13 +252,13 @@ Key calculations include:
 
 ---
 
-# 📈 Contribution Activity
+# 📊 GitHub Overview
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunShajan&bg_color=0d1117&color=00F7FF&line=7B2FF7&point=00F7FF&area=true&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunShajan&theme=tokyonight"
     width="100%"
-    alt="GitHub Contribution Graph"
+    alt="GitHub Profile Summary"
   />
 </p>
 
