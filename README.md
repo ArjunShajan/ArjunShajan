@@ -54,15 +54,16 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎯 [AI Interview Preparation Tool](#)
 
-AI-powered platform for personalized interview preparation using resume and skill analysis.
+AI-powered interview platform using resume and skill analysis.
 
 - 📄 Resume & skill analysis
-- 🤖 AI-generated technical & HR questions
-- 📊 Interview performance feedback
+- 🤖 AI-generated interview questions
+- 📊 Performance feedback
 
 `Python` `FastAPI` `NLP` `Groq`
 
@@ -72,24 +73,27 @@ AI-powered platform for personalized interview preparation using resume and skil
 
 ### 🧭 PathFinder AI
 
-AI-powered career discovery platform that helps users identify skills and build career roadmaps.
+AI-powered platform for career discovery and personalized learning.
 
 - 🎯 Career recommendations
 - 🧠 Skill gap analysis
-- 🛣️ Personalized learning roadmap
+- 🛣️ Learning roadmaps
 
 `React` `FastAPI` `Groq` `SQLite`
 
 </td>
+
 </tr>
+
+<tr>
 
 <td width="50%">
 
 ### 📸 AI Attendance Monitoring
 
-Smart attendance system that automates attendance using real-time facial recognition.
+Automated attendance system using real-time facial recognition.
 
-- 👁️ Real-time face recognition
+- 👁️ Face recognition
 - 📝 Automatic attendance logging
 - 📊 Attendance reports
 
@@ -97,38 +101,42 @@ Smart attendance system that automates attendance using real-time facial recogni
 
 </td>
 
-<tr>
 <td width="50%">
 
-### 🪐 CodeOrbit
+### 🛒 E-Commerce Analytics Dashboard
 
-AI-powered DSA platform that analyzes and visually explains code using a multi-agent architecture.
+Interactive Power BI dashboard for business and sales insights.
+
+- 💰 Sales & profit analysis
+- 👥 Customer insights
+- 📈 KPI & trend analysis
+
+`Power BI` `DAX` `Power Query`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🪐 [CodeOrbit](#)
+
+AI-powered DSA platform for analyzing and visually explaining code.
 
 - 🔍 Code analysis & correction
 - ⚡ Code optimization & conversion
-- 🎨 Interactive code visualization
+- 🎨 Interactive visualization
 
 `React` `FastAPI` `Groq` `LLM`
 
 </td>
 
-
-</tr>
-
-<tr>
 <td width="50%">
 
-### 🛒 E-Commerce Analytics Dashboard
-
-Interactive Power BI dashboard for analyzing sales, customers, products, and profitability.
-
-- 💰 Sales & profit analysis
-- 👥 Customer & product insights
-- 📈 Business KPI tracking
-
-`Power BI` `DAX` `Power Query`
-
 </td>
+
 </tr>
 </table>
 
