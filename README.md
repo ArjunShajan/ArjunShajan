@@ -127,20 +127,6 @@ Interactive Power BI dashboard for analyzing sales, customers, products, and pro
 `Power BI` `DAX` `Power Query`
 
 </td>
-
-<td width="50%">
-
-### 🤖 AI & Data Science Projects
-
-A collection of practical projects exploring machine learning, NLP, computer vision, and data analytics.
-
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Analytics
-
-`Python` `ML` `NLP` `Power BI`
-
-</td>
 </tr>
 </table>
 
