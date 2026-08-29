@@ -83,6 +83,20 @@ AI-powered career discovery platform that helps users identify skills and build 
 </td>
 </tr>
 
+<td width="50%">
+
+### 📸 AI Attendance Monitoring
+
+Smart attendance system that automates attendance using real-time facial recognition.
+
+- 👁️ Real-time face recognition
+- 📝 Automatic attendance logging
+- 📊 Attendance reports
+
+`Python` `OpenCV` `Face Recognition`
+
+</td>
+
 <tr>
 <td width="50%">
 
@@ -98,19 +112,7 @@ AI-powered DSA platform that analyzes and visually explains code using a multi-a
 
 </td>
 
-<td width="50%">
 
-### 📸 AI Attendance Monitoring
-
-Smart attendance system that automates attendance using real-time facial recognition.
-
-- 👁️ Real-time face recognition
-- 📝 Automatic attendance logging
-- 📊 Attendance reports
-
-`Python` `OpenCV` `Face Recognition`
-
-</td>
 </tr>
 
 <tr>
