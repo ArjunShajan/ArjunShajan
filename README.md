@@ -52,144 +52,97 @@ I'm continuously improving my skills through **academic projects, personal proje
 
 # 🚀 Featured Projects
 
-## 🤖 AI-Based Interview Preparation Tool
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-00F7FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Resume%20Analysis-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi" />
-</p>
+### 🎯 [AI Interview Preparation Tool](#)
 
-> 🎯 **An AI-powered platform that analyzes resumes and skills to generate personalized interview preparation experiences.**
+AI-powered platform for personalized interview preparation using resume and skill analysis.
 
-### ✨ Features
+- 📄 Resume & skill analysis
+- 🤖 AI-generated technical & HR questions
+- 📊 Interview performance feedback
 
-* 📄 **Resume Analysis** using NLP
-* 🎯 **Personalized Technical & HR Questions**
-* 🧠 **AI-Based Skill Assessment**
-* 📊 **Interview Performance Feedback**
-* 🤖 Intelligent Question Generation
+`Python` `FastAPI` `NLP` `Groq`
 
-### 🛠️ Tech Stack
+</td>
 
-`Python` `FastAPI` `Machine Learning` `NLP`
+<td width="50%">
 
----
+### 🧭 PathFinder AI
 
-## 🧭 PathFinder AI
+AI-powered career discovery platform that helps users identify skills and build career roadmaps.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Career%20Discovery-ff00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
-</p>
+- 🎯 Career recommendations
+- 🧠 Skill gap analysis
+- 🛣️ Personalized learning roadmap
 
-> 🚀 **An AI-powered career discovery and skill development platform designed to help users discover careers, identify skill gaps, and build personalized learning paths.**
+`React` `FastAPI` `Groq` `SQLite`
 
-### ✨ Features
+</td>
+</tr>
 
-* 📄 AI-Based Career Recommendation
-* 🧠 Personalized Skill Gap Analysis
-* 🛣️ Intelligent Learning Roadmap Generation
-* 🎯 Career Simulation & Guidance
-* 🤖 AI Mentor Chat Assistance
-* 📊 Interactive User Dashboard
-* 🔐 Secure User Authentication
+<tr>
+<td width="50%">
 
-### 🛠️ Tech Stack
+### 🪐 CodeOrbit
 
-`Python` `FastAPI` `React` `Machine Learning` `Groq API` `SQLAlchemy` `SQLite` `JWT`
+AI-powered DSA platform that analyzes and visually explains code using a multi-agent architecture.
 
----
-## 🪐 CodeOrbit — AI-Powered DSA Code Explainer
+- 🔍 Code analysis & correction
+- ⚡ Code optimization & conversion
+- 🎨 Interactive code visualization
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-DSA%20Explainer-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent-AI-7B2FF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge" />
-</p>
+`React` `FastAPI` `Groq` `LLM`
 
-> 🪐 **An AI-powered Data Structures & Algorithms platform that analyzes, corrects, optimizes, converts, and visually explains code using a multi-agent AI architecture.**
+</td>
 
-### ✨ Features
+<td width="50%">
 
-* 🔍 **AI Code Identification**
-* 🛠️ **AI Code Correction**
-* ⚡ **Code Optimization**
-* 🔄 **Code Conversion**
-* 🎨 **Interactive Code Visualization**
+### 📸 AI Attendance Monitoring
 
-### 🛠️ Tech Stack
+Smart attendance system that automates attendance using real-time facial recognition.
 
-`Python` `FastAPI` `React` `Vite` `Tailwind CSS` `Framer Motion` `JavaScript` `Groq API` `LLM` `Prompt Engineering` `Web Speech API`
+- 👁️ Real-time face recognition
+- 📝 Automatic attendance logging
+- 📊 Attendance reports
 
----
+`Python` `OpenCV` `Face Recognition`
 
-## 📸 AI Attendance Monitoring System
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer-Vision-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Face-Recognition-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge&logo=opencv" />
-</p>
+<tr>
+<td width="50%">
 
-> 👁️ **A smart attendance system that uses face recognition to automate attendance tracking and reporting.**
+### 🛒 E-Commerce Analytics Dashboard
 
-### ✨ Features
+Interactive Power BI dashboard for analyzing sales, customers, products, and profitability.
 
-* 😊 Real-Time Face Recognition
-* 📝 Automatic Attendance Recording
-* 📊 Attendance Reports
-* 🔒 Secure & Contactless Attendance
-* ⚡ Automated Attendance Management
+- 💰 Sales & profit analysis
+- 👥 Customer & product insights
+- 📈 Business KPI tracking
 
-### 🛠️ Tech Stack
+`Power BI` `DAX` `Power Query`
 
-`Python` `OpenCV` `Face Recognition` `SQL`
+</td>
 
----
+<td width="50%">
 
-## 🛒 E-Commerce Sales & Customer Analytics Dashboard
+### 🤖 AI & Data Science Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-Analytics-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Visualization-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business-Intelligence-7B2FF7?style=for-the-badge" />
-</p>
+A collection of practical projects exploring machine learning, NLP, computer vision, and data analytics.
 
-> 📊 **An interactive Power BI dashboard designed to analyze e-commerce sales, customer behavior, product performance, profitability, and business trends.**
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 📊 Data Analytics
 
-### ✨ Features
+`Python` `ML` `NLP` `Power BI`
 
-* 💰 **Sales & Revenue Analysis**
-* 📈 **Sales Growth & Year-over-Year Analysis**
-* 👥 **Customer Performance & Behavior Analysis**
-* 🛍️ **Product & Category Performance**
-* 💵 **Profit & Profitability Analysis**
-* 🌎 **Regional Sales Performance**
-* 📅 **Time-Based Sales Analysis**
-* 🎯 **Interactive Filters & Visualizations**
-* 📊 **Business KPI Dashboard**
-
-### 🧠 Analytics & DAX
-
-The project uses **Power BI DAX measures** and a dedicated **Date Table** for time-intelligence analysis.
-
-Key calculations include:
-
-* Total Sales
-* Total Profit
-* Previous Year Sales
-* Sales Growth %
-* Year-over-Year Performance
-* Time-Based Sales Trends
-
-### 🛠️ Tech Stack
-
-`Power BI` `DAX` `Power Query` `Data Modeling` `Data Visualization` `Business Intelligence`
+</td>
+</tr>
+</table>
 
 ---
 
